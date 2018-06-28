@@ -9,7 +9,7 @@ A server is hosted on Microsoft Azure which takes an image from the camera feed 
 *NOTE: Our current subscription on Azure (Azure Free Pass) forbids us from setting up virtual machines with GPU instances. Hosting the server on a relatively less powerful machine has caused the response time for the server to increase significantly. Smart-I can run in real-time provided the server is set up on a powerful virtual machine on the cloud and this would be taken care of in the next update.*
 
 ## Instructions
-Just download the apk and install it on your Android device, giving the apl the necessary permissions. Make sure you have an active internet connection. Due to the slow response time of the server, you will have to wait about 15 seconds to get a prediction. As soon as you recieve a respinse from the server, Smart-I will begin narrating the world around you.
+Just download the apk and install it on your Android device, giving the apk the necessary permissions. Make sure you have an active internet connection. Due to the slow response time of the server, you will have to wait about 15 seconds to get a prediction. As soon as you recieve a response from the server, Smart-I will begin narrating the world around you.
 
 ## Android Application
 The apk for Smart-I is available [here](https://github.com/bennyhawk/CodeFunDo/raw/master/app-release.apk).
