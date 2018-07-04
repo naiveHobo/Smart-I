@@ -1,5 +1,7 @@
 # Smart-I
 
+*NOTE: The app is currently not running since we don't have enough credits to run our server on Azure.*
+
 ## Introduction
 Smart-I is an attempt to harness the power of Artificial Intelligence and Cloud Computing with the aim of helping the visually impaired by narrating the world around them. Using a cascade of deep neural networks, Smart-I is able to predict apt captions for the scene captured in an image and the depth of each pixel in this image with respect to the camera. This information is combined to develop a deep understanding of the environment which is then outputted as speech, thus helping the visually impaired to visualize and navigate in their surroundings.
 
