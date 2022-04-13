@@ -16,9 +16,9 @@ A server is hosted on Microsoft Azure which takes an image from the camera feed 
 Just download the apk and install it on your Android device, giving the apk the necessary permissions. Make sure you have an active internet connection. Due to the slow response time of the server, you will have to wait about 15 seconds to get a prediction. As soon as you recieve a response from the server, Smart-I will begin narrating the world around you.
 
 ## Android Application
-The apk for Smart-I is available [here](https://github.com/bennyhawk/CodeFunDo/raw/master/app-release.apk).
+The apk for Smart-I is available [here](https://github.com/naiveHobo/Smart-I/raw/master/app-release.apk).
 
-Documentation is available [here](https://github.com/bennyhawk/CodeFunDo/raw/master/Smart-I_Doc.pdf).
+Documentation is available [here](https://github.com/naiveHobo/Smart-I/raw/master/Smart-I_Doc.pdf).
 
 #### Made with ♥ by:
 - Reuben Nellissery 
